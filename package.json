@@ -1,0 +1,19 @@
+{
+  "name": "aulaexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exeple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoAPC/aulaExpress.git"
+  },
+  "author": "Leonardo Pimenta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoAPC/aulaExpress/issues"
+  },
+  "homepage": "https://github.com/LeoAPC/aulaExpress#readme"
+}
